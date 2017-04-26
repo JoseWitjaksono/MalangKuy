@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "552508284676",
+    "firebase_url": "https://ngalam-d3126.firebaseio.com",
+    "project_id": "ngalam-d3126",
+    "storage_bucket": "ngalam-d3126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552508284676:android:a77865be443ce82e",
+        "android_client_info": {
+          "package_name": "id.sch.smktelkom_mlg.project.dicoding.malangkuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552508284676-7r4quo4p3jrc3nkjn3921ra8u2g47jes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.sch.smktelkom_mlg.project.dicoding.malangkuy",
+            "certificate_hash": "7f80d3a0fd94bf6d8b13cb280f5ebe613dd0212b"
+          }
+        },
+        {
+          "client_id": "552508284676-hk3luol3fuqo3oou8ajvcs540af7k9nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrik4yUWZLT9cZRABftOcTdW7z2Yu0Pcc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552508284676-hk3luol3fuqo3oou8ajvcs540af7k9nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
